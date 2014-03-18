@@ -21,16 +21,16 @@ $("#fileSend").filefy({'fClass' : "file-zone", 'ajax' : false});
 ###Exist options:
 
 * fClass
-. Class for file zone div
+⋅Class for file zone div
 
 * fullLoadMessage
-. Message view when full (drag&drop and click) mode adding file enable
+⋅Message view when full (drag&drop and click) mode adding file enable
 
 * partLoadMessage
-. Mesage view when part mode (only click) enable
+⋅Mesage view when part mode (only click) enable
 
 * loadScript
-. Link to script which load via AJAX.
+⋅Link to script which load via AJAX.
 		
 * ajax
-. Use AJAX to load
+⋅Use AJAX to load
