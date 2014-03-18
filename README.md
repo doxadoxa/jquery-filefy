@@ -4,16 +4,18 @@ jquery-filefy
 jQuery plugin for styling and drag&amp;drop file input
 
 ##1. Plugin use
-
-><input type="file" id="fileSend">
-><script>
-> $("#fileSend").filefy();
-></script>
+```html
+<input type="file" id="fileSend">
+<script>
+	$("#fileSend").filefy();
+</script>```
 
 ##2. Options
 Options pass as object in method filefy. Ex:
 
->$("#fileSend").filefy({'fClass' : "file-zone", 'ajax' : false});
+```html
+$("#fileSend").filefy({'fClass' : "file-zone", 'ajax' : false});
+```
 
 ###Exist options:
 
