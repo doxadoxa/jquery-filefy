@@ -18,7 +18,7 @@ Options pass as object in method filefy. Ex:
 $("#fileSend").filefy({'fClass' : "file-zone", 'ajax' : false});
 ```
 
-###Exist options:
+###Exist options
 
 ####fClass
 Class for file zone div
